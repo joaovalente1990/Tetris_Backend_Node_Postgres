@@ -1,7 +1,5 @@
 const path = require('path');
 
-const CvsController = require('../api/controllers/CvsController')
-
 const express = require('express');
 
 const router = express.Router();
